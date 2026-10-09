@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![My city](https://raw.githubusercontent.com/paulseipl/paulseipl/output/skyline.svg)
+
 <!--
 **PaulSeipl/PaulSeipl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
